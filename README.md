@@ -16,3 +16,4 @@ Configuraciones basicas para trabajar con el framework de Django
 - 11 Creando el proyecto --> django-admin startproject webjoyeria_proy .
 - 12 Realizar migracion al proyecto --> python manage.py migrate
 - 13 Ejecutar servidor web --> python manage.py runserver
+- 14 Me trabajo el proyecto
